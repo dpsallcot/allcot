@@ -1,0 +1,6 @@
+phonenumbers
+pyOpenSSL
+unidecode
+pycryptodome
+zeep
+requests
